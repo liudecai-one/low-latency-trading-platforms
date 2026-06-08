@@ -16,3 +16,6 @@ During NFP, gold can move $30 in 60 seconds. REST polling gives you 30 data poin
 
 - [WebSocket vs REST Deep Dive](https://blog.quant-view.xyz/websocket-vs-rest-api.html)
 - [TradingView vs GFIL Comparison](https://blog.quant-view.xyz/tradingview-vs-gfil-boss.html)
+
+## Community
+- [Telegram](https://t.me/GFIL_Trading) | [Discord](https://discord.gg/nPuta6Cr4)
